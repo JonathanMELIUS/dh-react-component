@@ -1,1 +1,1 @@
-export { default as DHButton } from "./Button";
+export * from "./Button";

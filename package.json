@@ -3,7 +3,8 @@
   "version": "0.0.8",
   "description": "a description",
   "scripts": {
-    "rollup": "rollup -c"
+    "rollup": "rollup -c --bundleConfigAsCjs",
+    "build": "rollup -c --bundleConfigAsCjs"
   },
   "author": "John Doe",
   "license": "ISC",
