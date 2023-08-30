@@ -1,6 +1,6 @@
 {
-  "name": "dh-react-component",
-  "version": "0.0.3",
+  "name": "dh-test-component",
+  "version": "0.0.4",
   "description": "a description",
   "scripts": {
     "rollup": "rollup -c"
